@@ -1,13 +1,13 @@
 {
-  "main.css": "/marvel-api-react/static/css/main.2ce2b3b0.chunk.css",
-  "main.js": "/marvel-api-react/static/js/main.a73cb0ff.chunk.js",
-  "main.js.map": "/marvel-api-react/static/js/main.a73cb0ff.chunk.js.map",
+  "main.css": "/marvel-api-react/static/css/main.a7bc7bcd.chunk.css",
+  "main.js": "/marvel-api-react/static/js/main.35bb396f.chunk.js",
+  "main.js.map": "/marvel-api-react/static/js/main.35bb396f.chunk.js.map",
   "runtime~main.js": "/marvel-api-react/static/js/runtime~main.7a613dc0.js",
   "runtime~main.js.map": "/marvel-api-react/static/js/runtime~main.7a613dc0.js.map",
-  "static/js/2.c396fc18.chunk.js": "/marvel-api-react/static/js/2.c396fc18.chunk.js",
-  "static/js/2.c396fc18.chunk.js.map": "/marvel-api-react/static/js/2.c396fc18.chunk.js.map",
+  "static/js/2.ab631842.chunk.js": "/marvel-api-react/static/js/2.ab631842.chunk.js",
+  "static/js/2.ab631842.chunk.js.map": "/marvel-api-react/static/js/2.ab631842.chunk.js.map",
   "index.html": "/marvel-api-react/index.html",
-  "precache-manifest.2f3a1257b43274eef15f72e85377821d.js": "/marvel-api-react/precache-manifest.2f3a1257b43274eef15f72e85377821d.js",
+  "precache-manifest.8b898d3f5727d230bc6e1ff6b229fd95.js": "/marvel-api-react/precache-manifest.8b898d3f5727d230bc6e1ff6b229fd95.js",
   "service-worker.js": "/marvel-api-react/service-worker.js",
-  "static/css/main.2ce2b3b0.chunk.css.map": "/marvel-api-react/static/css/main.2ce2b3b0.chunk.css.map"
+  "static/css/main.a7bc7bcd.chunk.css.map": "/marvel-api-react/static/css/main.a7bc7bcd.chunk.css.map"
 }
